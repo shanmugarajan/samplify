@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.date = "2017-04-24"
   s.description = "Generate a unique token with Active Record."
   s.email = "shanvinobe@gmail.com"
-  s.extra_rdoc_files = ["README.rdoc", "lib/samplify.rb"]
-  s.files = ["Manifest", "README.rdoc", "Rakefile", "lib/samplify.rb", "samplify.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/samplify.rb"]
+  s.files = ["CHANGELOG", "Manifest", "README.rdoc", "Rakefile", "lib/samplify.rb", "samplify.gemspec"]
   s.homepage = "https://github.com/shanmugarajan/samplify"
   s.rdoc_options = ["--line-numbers", "--title", "Samplify", "--main", "README.rdoc"]
   s.rubyforge_project = "samplify"
